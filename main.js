@@ -1,10 +1,11 @@
 var path = require("path");
 var Sealious = require("sealious");
-var data = require("./authentication.js");
+var data = require("./example-authentication.js");
 var DatastoreMysql = require("sealious-datastore-mysql");
 
 require("./field_types/field_type.category.js");
 require("./field_types/field_type.subcategory.js");
+
 
 Sealious.init();
 

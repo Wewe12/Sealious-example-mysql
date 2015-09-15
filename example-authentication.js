@@ -1,7 +1,7 @@
 var data = {
 	host     : 'localhost',
-	user     : 'your_name',
-	password : 'pass'
+	user     : 'wewe',
+	password : 'Praktyki2015'
 	//database : 'my_db'
 };
 
